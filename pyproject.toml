@@ -1,0 +1,12 @@
+[tool.ruff]
+target-version = "py314"
+line-length = 88
+include = ["*.py", "pyproject.toml"]
+extend-exclude = [".venv*", "tmp", "dist", "tests/local_only"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "UP"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"

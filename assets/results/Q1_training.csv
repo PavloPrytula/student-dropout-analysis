@@ -1,0 +1,5 @@
+,Age at enrollment,Age at enrollment,Age at enrollment,Admission grade,Admission grade,Admission grade,Previous qualification (grade),Previous qualification (grade),Previous qualification (grade),Gender,Gender,Gender
+,size,mean,median,size,mean,median,size,mean,median,size,mean,median
+Target,,,,,,,,,,,,
+Dropout,1137,26.088830255057168,23.0,1137,124.70290237467019,122.9,1137,130.90404573438875,133.0,1137,0.49780123131046616,0.0
+Graduate,1767,21.920769666100735,19.0,1767,128.56638370118844,127.3,1767,134.0366723259762,133.1,1767,0.2501414827391058,0.0

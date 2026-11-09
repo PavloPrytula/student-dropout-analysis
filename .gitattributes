@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Preserve the source CSV byte-for-byte, including its original CRLF endings.
+/data/data.csv -text whitespace=cr-at-eol
+*.joblib -text
+*.png -text

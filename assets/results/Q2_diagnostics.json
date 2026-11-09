@@ -1,0 +1,31 @@
+{
+  "n": 3539,
+  "p_per_logit": 24,
+  "rank": 24,
+  "zero_course_cells": 0,
+  "cells_below_5": 2,
+  "unpenalized": {
+    "converged": true,
+    "iterations": 7,
+    "finite": true,
+    "max_abs_coef": 5.148661163664106,
+    "warnings": []
+  },
+  "newton_bfgs_max_coefficient_difference": 3.0586550181510574e-08,
+  "newton_gradient_inf": 1.0292669355327921e-13,
+  "penalty_sum_loss": 0.0,
+  "criterion": "multinomial NLL",
+  "optimizer": "BFGS",
+  "start": "zero",
+  "tolerance": 1e-06,
+  "maxiter": 2000,
+  "iterations": 64,
+  "message": "Desired error not necessarily achieved due to precision loss.",
+  "success": false,
+  "gradient_inf": 1.14669985277069e-06,
+  "hessian_min_eigenvalue": 0.07475082862557886,
+  "hessian_condition": 32919.54158180175,
+  "max_abs_coefficient": 5.148661163664106,
+  "bootstrap_replicates": 200,
+  "bootstrap_seed": 681
+}

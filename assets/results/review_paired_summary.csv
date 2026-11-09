@@ -1,0 +1,4 @@
+k,both,P2_only,P4_only,both_dropouts,P2_only_dropouts,P4_only_dropouts,difference_P2_minus_P4,capacity,overlap_fraction,conditional_paired_se,conditional_paired_low,conditional_paired_high
+175,124,51,51,106,32,28,4,0.05,0.7085714285714285,5.212405930834042,-5.025000000000012,15.0
+350,265,85,85,195,57,50,7,0.1,0.7571428571428571,7.064061029543457,-12.0,16.0
+705,565,140,140,376,68,76,-8,0.2,0.8014184397163121,8.866053657277677,-26.0,9.0

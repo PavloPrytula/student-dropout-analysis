@@ -1,0 +1,113 @@
+[
+  {
+    "candidate": "B0",
+    "log_loss": 0.6278289551487365,
+    "brier": 0.21805838998988816,
+    "average_precision": 0.3209146036322805,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "prevalence": 0.3212771969482905
+  },
+  {
+    "candidate": "P1",
+    "log_loss": 0.5411124637118577,
+    "brier": 0.18090652060361198,
+    "average_precision": 0.5951480087430365,
+    "precision": 0.6318926974664679,
+    "recall": 0.3729111697449428,
+    "f1": 0.4690265486725664,
+    "n_coefficients": 220,
+    "intercept": -1.1439844689504992,
+    "coef_norm": 4.009674208924796,
+    "starts": [
+      {
+        "success": true,
+        "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+        "nit": 144,
+        "objective": 0.5237770687442335,
+        "gradient_inf": 8.294846618059836e-08
+      }
+    ]
+  },
+  {
+    "candidate": "P2",
+    "log_loss": 0.5399112774992887,
+    "brier": 0.180476017691164,
+    "average_precision": 0.5951663412338511,
+    "precision": 0.6289120715350224,
+    "recall": 0.37115215479331576,
+    "f1": 0.4668141592920354,
+    "n_coefficients": 232,
+    "intercept": -1.4285179437661994,
+    "coef_norm": 3.932166989274234,
+    "starts": [
+      {
+        "success": true,
+        "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+        "nit": 290,
+        "objective": 0.5157934458121832,
+        "gradient_inf": 8.611846461929794e-08
+      }
+    ]
+  },
+  {
+    "candidate": "P3",
+    "log_loss": 0.5501607407724299,
+    "brier": 0.18527596099141558,
+    "average_precision": 0.5591076318767685,
+    "precision": 0.6187594553706506,
+    "recall": 0.3597185576077397,
+    "f1": 0.4549499443826474,
+    "n_trees": 500,
+    "mean_depth": 8.0,
+    "mean_leaves": 85.38
+  },
+  {
+    "candidate": "P4",
+    "log_loss": 0.5394832177081885,
+    "brier": 0.18046388141648778,
+    "average_precision": 0.5958370100698958,
+    "precision": 0.6529680365296804,
+    "recall": 0.37730870712401055,
+    "f1": 0.4782608695652174,
+    "n_trees": 100,
+    "mean_depth": 2.0,
+    "mean_leaves": 3.97
+  },
+  {
+    "candidate": "P1B",
+    "log_loss": 0.5421843032019407,
+    "brier": 0.18120774415464247,
+    "average_precision": 0.5916089263364694,
+    "precision": 0.6373626373626373,
+    "recall": 0.357080035180299,
+    "f1": 0.4577226606538895,
+    "n_coefficients": 220,
+    "intercept": -0.9597685339064314,
+    "coef_norm": 2.8782881698606,
+    "starts": [
+      {
+        "success": true,
+        "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+        "nit": 111,
+        "objective": 0.1770129665172237,
+        "gradient_inf": 8.549143497878079e-08
+      },
+      {
+        "success": true,
+        "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+        "nit": 98,
+        "objective": 0.1770129665106515,
+        "gradient_inf": 6.777988341495253e-08
+      },
+      {
+        "success": true,
+        "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+        "nit": 125,
+        "objective": 0.17701296652451304,
+        "gradient_inf": 9.140919478319693e-08
+      }
+    ]
+  }
+]
